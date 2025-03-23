@@ -66,7 +66,7 @@ function Footer({ isDark }: { isDark: boolean }) {
           <div className={`text-center text-sm ${isDark ? 'text-gray-400' : 'text-gray-600'} pt-8 border-t ${isDark ? 'border-gray-700' : 'border-gray-200'}`}>
             <p>© {new Date().getFullYear()} YouTube Thumbnail Downloader. All rights reserved.</p>
             <p className="mt-2">
-              This service is not affiliated with YouTube or Google Inc.
+              This service is not affiliated with YouTube or Google Incc.
             </p>
           </div>
         </div>
